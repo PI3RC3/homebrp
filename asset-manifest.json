@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/homebrp/static/css/main.7c7faf9f.css",
-    "main.js": "/homebrp/static/js/main.acd0a998.js",
-    "static/js/453.c28748c7.chunk.js": "/homebrp/static/js/453.c28748c7.chunk.js",
-    "static/media/islandhomelogo.png": "/homebrp/static/media/islandhomelogo.d8643a6ce1e49063321a.png",
-    "index.html": "/homebrp/index.html",
-    "main.7c7faf9f.css.map": "/homebrp/static/css/main.7c7faf9f.css.map",
-    "main.acd0a998.js.map": "/homebrp/static/js/main.acd0a998.js.map",
-    "453.c28748c7.chunk.js.map": "/homebrp/static/js/453.c28748c7.chunk.js.map"
+    "main.css": "/static/css/main.7c7faf9f.css",
+    "main.js": "/static/js/main.a8f39383.js",
+    "static/js/453.c28748c7.chunk.js": "/static/js/453.c28748c7.chunk.js",
+    "static/media/islandhomelogo.png": "/static/media/islandhomelogo.d8643a6ce1e49063321a.png",
+    "index.html": "/index.html",
+    "main.7c7faf9f.css.map": "/static/css/main.7c7faf9f.css.map",
+    "main.a8f39383.js.map": "/static/js/main.a8f39383.js.map",
+    "453.c28748c7.chunk.js.map": "/static/js/453.c28748c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c7faf9f.css",
-    "static/js/main.acd0a998.js"
+    "static/js/main.a8f39383.js"
   ]
 }
